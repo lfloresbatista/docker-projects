@@ -12,7 +12,7 @@ I hope you enjoy them and can serve those who are in search of knowledge and it 
 <h2>Contenido</h2>
 
 <h3>
-  1. <a href="https://github.com/lfloresbatista/docker-projects/blob/main/NginX-LetsEncrypt-Mysql.yml">Nginx + Let's Encrypt + Mysql</a>
+  1. <a href=https://github.com/lfloresbatista/docker-projects/tree/main/NginX-LetsEncrypt-Mysql>Nginx + Let's Encrypt + Mysql</a>
 </h3>
    <br>
    <strong>Descp:</strong> Este yaml es buenisimo si lo que quieres es tener un servidor proxy que diriga la solicitud hacia el contenedor especifico, sin tener que estar creando o modificando todo cada que creas un contenedor, ya que la imagen de <b>jwilder</b> lo hace, conectandose al sock de docker y creandolo, adicional se conecta al volumen de CA de letsencrypt en read-only.
